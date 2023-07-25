@@ -1,8 +1,12 @@
-# React + Vite
+# MovieLand Webiste
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+My first react website, this is a purely front end website, api used for movie
+data : [OMDb API](https://www.omdbapi.com/), this project was created following
+this [youtube tutorial](https://youtu.be/b9eMGE7QtTk) 
 
-Currently, two official plugins are available:
+React concepts learned through this tutorial:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. How to think of a website in terms of components
+1. Learned about the JSX syntax
+1. Using hooks like `useEffect()` and `useState()` for state management
+1. Event handling in react using `onClick`
